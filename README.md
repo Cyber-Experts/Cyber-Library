@@ -26,7 +26,7 @@ The goal of **Cyber Library** is to:
 
 ## 📄 How to Contribute
 
-To find detailed instructions on how to contribute to **Cyber Library**, including guidelines for creating and submitting content, please visit our **[Collaboration Wiki](https://github.com/yourusername/cyber-library/wiki/Collaboration-Guide)**.
+To find detailed instructions on how to contribute to **Cyber Library**, including guidelines for creating and submitting content, please visit our **[Collaboration Wiki](https://github.com/Cyber-Courses/Cyber-Library/wiki)**.
 
 You’ll find everything you need to know about contributing, reporting issues, or suggesting new topics in the Wiki.
 
@@ -45,6 +45,6 @@ This project thrives on the contributions of people like you. We invite you to:
 
 ## 📧 Contact
 
-If you have any questions, feel free to open an issue or reach out via the [Wiki](https://github.com/yourusername/cyber-library/wiki) or our [Discord server](https://discord.com/invite/your-invite-link).
+If you have any questions, feel free to open an issue or reach out via the [Wiki](https://github.com/Cyber-Courses/Cyber-Library/wiki) or our [Discord server](https://discord.gg/DWfu64dY).
 
 Visit the website: [www.cyberlibrary.fr](https://www.cyberlibrary.fr)
